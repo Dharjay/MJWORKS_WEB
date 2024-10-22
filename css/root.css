@@ -1,0 +1,18 @@
+:root {
+  --four-px: 0.25rem;
+  --eight-px: 0.5rem;
+  --twelve-px: 0.75rem;
+  --sixteen-px: 1rem;
+  --twenty-px: 1.25rem;
+  --twenty-four-px: 1.5rem;
+  --thirty-two-px: 2rem;
+  --fourty-eight-px: 3rem;
+  --sixty-four-px: 4rem;
+  --colorPrimary: white;
+  --bgSecondary: #212121;
+  --bgTertiary: #535353;
+  --bgQuartenary: #b3b3b3;
+  --spotify-color: #1db954;
+  --primaryFont: "Protest Strike";
+  --secondaryFont: "Poppins";
+}
